@@ -13,4 +13,6 @@ En este materia estamos aprendiendo condeptos básicos de programación en pytho
 Nombre del docente: Rebeca Rodríguez Pantoja
 En esta materia estamos viendo concepto desde redes, hasta la historia misma de la computación. 
 
-
+### Matemáticas 
+Nombre del docente: Rogelio Perez Trejo 
+En esta materia estamos viendo números reales y gráficas.
