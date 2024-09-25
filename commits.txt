@@ -1,0 +1,65 @@
+commit 55d5619c5675864a77f5dfbd334e174a4720c052
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 15:59:38 2024 -0600
+
+    Programación
+
+commit bee038fb6af167b1c0b455f697df2f813869cddd
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 15:56:38 2024 -0600
+
+    Matemáticas
+
+commit 06423e74e866a56aa4fd8f8a4bca2f33f809316c
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 15:17:22 2024 -0600
+
+    Fundamentos-de-computadores
+
+commit 27933efe836f4e20cfc758c68d5ebfa767840a77
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 14:56:33 2024 -0600
+
+    Álgebra
+
+commit ad41e0b93b087b7e8bcdf29950321e100011614b
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 14:00:29 2024 -0600
+
+    Introducción a la ciberseguridad
+
+commit 235c46f37380e60478d443c96ea4295548148324
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 13:47:43 2024 -0600
+
+    Primer Commit
+
+commit 14117d7f93265baa60c89eaa7b7243e20796754c
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 13:43:33 2024 -0600
+
+    Revert "Reapply "Primer Commit""
+    
+    This reverts commit fc510e15616c02b1b409534c8a7d8245d78fc909.
+
+commit fc510e15616c02b1b409534c8a7d8245d78fc909
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 13:41:48 2024 -0600
+
+    Reapply "Primer Commit"
+    
+    This reverts commit 02157f438b78a82c680d7d0f9a3f1dedc2af7550.
+
+commit 02157f438b78a82c680d7d0f9a3f1dedc2af7550
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 13:41:22 2024 -0600
+
+    Revert "Primer Commit"
+    
+    This reverts commit e91ff9b7b1c529021a4f3c15baa4553fd345040c.
+
+commit e91ff9b7b1c529021a4f3c15baa4553fd345040c
+Author: kar64623 <cdmx3099@amerike.edu.mx>
+Date:   Wed Sep 25 13:36:41 2024 -0600
+
+    Primer Commit
