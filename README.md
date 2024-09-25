@@ -16,3 +16,7 @@ En esta materia estamos viendo concepto desde redes, hasta la historia misma de 
 ### Matemáticas 
 Nombre del docente: Rogelio Perez Trejo 
 En esta materia estamos viendo números reales y gráficas.
+
+### Programación 
+Nombre del docente: Jonathan Ulises Miranda Charles 
+En esta materia estamos viendo el control de versiones y el flujo de trabajo de Git.
